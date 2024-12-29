@@ -23,7 +23,7 @@ const About = () => {
           viewport={{ once: true }}
         >
           <p>
-            Hello! I'm a passionate web developer with expertise in modern web technologies. 
+            Hello! I am a passionate web developer with expertise in modern web technologies. 
             I love creating responsive and user-friendly websites that provide great user experiences.
           </p>
           <p>
@@ -37,7 +37,7 @@ const About = () => {
             <li>Version Control (Git)</li>
           </ul>
           <p>
-            When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, 
+            When I am not coding, you can find me exploring new technologies, contributing to open-source projects, 
             or enjoying a good book on web development.
           </p>
         </motion.div>
